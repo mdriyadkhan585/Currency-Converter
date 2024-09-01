@@ -1,5 +1,7 @@
 # Currency-Converter
 ---
+[In C script](https://github.com/mdriyadkhan585/Currency-Converter-C)
+
 ![Currency Converter Logo](logo.svg)
 
 ---
